@@ -9,6 +9,7 @@ This is my first React App that integrates OpenWeatherMap API to detect the weat
 4.  React
 
 <b>Link to API:</b> https://api.openweathermap.org/data/2.5/
+<br>
 <b>API Key:</b> 5b112e8e3880e60d3c24fbe0efab9805
 
 Following are the snapshots of the website:
