@@ -1,7 +1,7 @@
 # Know-The_Weather
 
-* My first React App that integrates OpenWeatherMap API to detect the weather conditions of a particular location.
-<h3>* Tech Stack Used:</h3>
+This is my first React App that integrates OpenWeatherMap API to detect the weather conditions of a particular location.
+<h3> Tech Stack Used:</h3>
 
 1.  HTML
 2.  CSS
