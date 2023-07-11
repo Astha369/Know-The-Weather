@@ -14,3 +14,6 @@ This is my first React App that integrates OpenWeatherMap API to detect the weat
 
 Following are the snapshots of the website:
 
+
+<img src = "https://github.com/Astha369/Know-The_Weather/blob/main/src/images/1.jpeg">
+<img src = "https://github.com/Astha369/Know-The_Weather/blob/main/src/images/2.jpeg">
