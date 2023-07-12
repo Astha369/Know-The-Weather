@@ -1,19 +1,16 @@
-# Know-The_Weather
+<p align="center">
+<img src="https://www.htmlhints.com/image/react/reactWeatherApp.png" width="100%">
+</p>
 
-This is my first React App that integrates OpenWeatherMap API to detect the weather conditions of a particular location.
-<h3> Tech Stack Used:</h3>
+<p align="center">
+  View Complete <a href="https://www.htmlhints.com/article/how-to-create-weather-app-using-reactjs-with-current-location-search-city/93">Installation details</a>.
+ </p>
+ <p align="center">
+  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+ </p>
 
-1.  HTML
-2.  CSS
-3.  JS
-4.  React
+## Setup
 
-<b>Link to API:</b> https://api.openweathermap.org/data/2.5/
-<br>
-<b>API Key:</b> 5b112e8e3880e60d3c24fbe0efab9805
-
-Following are the snapshots of the website:
-
-
-<img src = "https://github.com/Astha369/Know-The_Weather/blob/main/src/images/1.jpeg">
-<img src = "https://github.com/Astha369/Know-The_Weather/blob/main/src/images/2.jpeg">
+```
+npm i && npm start
+```

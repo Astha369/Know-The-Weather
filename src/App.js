@@ -5,9 +5,9 @@ import "./App.css";
 function App() {
   return (
     <React.Fragment>
-      <div className="header">
+      {/* <div className="header">
         <h1>Weather App</h1>
-      </div>
+      </div> */}
       <div className="container">
         <CurrentLocation />
       </div>
