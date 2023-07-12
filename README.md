@@ -1,6 +1,8 @@
 # Know The Weather
 
-<p>This is my first react app that intgrates OpenWeatherMap API to know the weather of the particular location.</p>
+<h1>Link</h1> https://know-the-weather02.netlify.app/ <br>
+
+<p>This is my first react app that integrates OpenWeatherMap API to know the weather of a particular location.</p>
 <br>
 <h3>Tech Stack Used:</h3>
 *HTML
